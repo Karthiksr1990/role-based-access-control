@@ -1,5 +1,3 @@
-# role-based-access-control
-role-based-access-control
 In-Memory Role based access system
 
 Role Based Access Control:
